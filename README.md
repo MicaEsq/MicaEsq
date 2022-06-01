@@ -6,9 +6,9 @@
 
 ###  Do you wanna know something about me? 
 
-- :notebook: I'm a Computer Science professional graduated from UADE University.
+- 🎓 I'm a Computer Science professional graduated from UADE University.
 
-- :woman_technologist: Actually working at Deloitte Argentina as a Cyber Security Consultant and also as a Front-end Developer!
+- 👩🏼‍💻 Currently working at Deloitte Argentina as a Cyber Security Consultant and also as a Front-end Developer!
 
 ### Languages and Tools :
 
