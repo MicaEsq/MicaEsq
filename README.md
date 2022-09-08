@@ -27,6 +27,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
+### Projects :
+
+Throught my BS studies, I worked with several teams to develop applications for different subjects, that is why I've contributed in projects such as: 
+- <a href='https://github.com/UADE-Seminario-II'>UADE-Seminario-II</a> <p> This project was called <b>TEAyuda</b>, it is a web application that aims to facilitate information to people with Autism Spectrum Disorder and their families to make their lives a little bit easier. For example, a list of specialized doctors in the area, schools where children with this condition are accepted(in some countries many schools do not accept them), and many other things that contribute to a better and comprehensible kind of life.</p>
+
+- <a href='https://github.com/UADE-Integracion-de-Aplicaciones'>UADE-Integracion-de-Aplicaciones</a> <p> This project was part of a bigger solution where we were devided in teams to develop several applications that would be later integrated with each other. In our team we had to develop a mobile and web application for a Bank, this project's name was <b>BankMe</b>, it included the functionality to see someone's profile, account summary, make money tranfers, pay services and more.</p>
+
+- <a href='https://github.com/MicaEsq/FinanZApp'>Finanz App</a> <p> <b>Finanz App</b> is a mobile application to register and monitor personal finances.</p> 
+
 ### :call_me_hand: Feel free to contact me :
 
 <div id="badges">
