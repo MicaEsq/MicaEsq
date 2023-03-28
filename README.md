@@ -8,7 +8,7 @@
 
 - 🎓 I'm a Computer Science professional graduated from UADE University.
 
-- 👩🏼‍💻 Currently working at Deloitte Argentina as a Cyber Security Consultant and also as a Front-end Developer!
+- 👩🏼‍💻 Currently working at Deloitte Argentina as a Cyber Security Consultant and also as a Ssr. Front-end Developer!
 
 ### Languages and Tools :
 
