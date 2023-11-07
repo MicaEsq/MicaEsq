@@ -8,7 +8,7 @@
 
 - 🎓 I'm a Computer Science professional graduated from UADE University.
 
-- 👩🏼‍💻 Working at Deloitte Argentina as a Ssr. Front-end Developer!
+- 👩🏼‍💻 Working at Galileo Financial Technologies as a Ssr. Front-end Developer!
 
 ### Languages and Tools :
 
